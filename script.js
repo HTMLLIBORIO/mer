@@ -3,7 +3,7 @@ const messages = [
   " Tu risa = mi paz  🌟",
   "Tienes una mirada que dice todo.😻",
   "Eres una gran mujercita 💫",
-  "Si mirarte fuera un delito, ya seria un crimina 🗣️‼.",
+  "Si mirarte fuera un delito, ya seria un criminal 🗣️‼.",
   "Tu sonrisa me ilumina 💫",
   "Mi chambeadora favorita 😉 ",
   "Yo tambien quiero un perfume JAJAAJ",
